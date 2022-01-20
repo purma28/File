@@ -1,0 +1,378 @@
+"data": [{	
+		"nama": "Alun Alun Malang",
+		"lokasi" : "Kota Malang",
+		"deskripsi": "alun alun ini baru saja dipermak pada tahun 2015. yang sebelumnya terlihat semrawut sekarang menjadi lebih tertata.",
+		"thumbnail": "https://lh3.googleusercontent.com/-7To0y-nnYak/VqQYjBWAwoI/AAAAAAAACf8/r_sAJ-dgsL8/s250-Ic42/thumbnail_alun_alun_malang.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-rTHiiW3vPMk/VqQXrbG5u6I/AAAAAAAACfs/buFhkMyTN98/s600-Ic42/alun_alun_malang.jpg"
+    },
+	{	
+		"nama": "Alun alun Tugu",
+		"lokasi" : "Kota Malang",
+		"deskripsi": "Di bagian tengah alun-alun ini terdapat sebuah tugu yang dikelilingi oleh kolam teratai. Alun-Alun Tugu/Bundar terletak di depan Balai Kota Malang.",
+		"thumbnail": "https://lh3.googleusercontent.com/-8WR-7K3f3xg/VqQYjZvb7-I/AAAAAAAACgA/Io4_UnWYIdo/s250-Ic42/thumbnail_alun_alun_tugu_malang.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-f2jvOWu4sBE/VqQXZQlUhuI/AAAAAAAACfk/6EEOBSwgIFE/s600-Ic42/alun_alun_tugu_malang.jpg"
+    },
+	{	
+		"nama": "Alun Alun Batu",
+		"lokasi" : "Kota Batu",
+		"deskripsi": "Alun-alun Kota Batu menjadi destinasi wisata keluarga murah meriah. Alun-alun yang buka 24 jam ini punya konsep ramah anak. Lampion dan lampu berderet, patung-patung hewan tersebar di area taman. juga terdapat komidi putar bila ingin menikmati pemandangan dari ketinggian.",
+		"thumbnail": "https://lh3.googleusercontent.com/-R0ipuAxdPus/VpgqL1YRyRI/AAAAAAAACdI/XWkGUZpTegE/s250-Ic42/thumbnail_alun_alun_batu.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-bFfINcFXjFM/VpgkzblyBhI/AAAAAAAACbg/r6z0tBnCBMY/s800-Ic42/alun_alun_batu.jpg"
+    },
+	{	
+		"nama": "Gunung Bromo",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Gunung ini memiliki ketinggian 2.329 meter di atas permukaan laut dan berada dalam empat wilayah kabupaten, yakni Kabupaten Malang, Kabupaten Probolinggo, Kabupaten Pasuruan, Kabupaten Lumajang.",
+		"thumbnail": "https://lh3.googleusercontent.com/-3ZeMDlvAbTw/VqWeZyHYbdI/AAAAAAAAChk/P2WFYWhHtMc/s250-Ic42/thumbnail_gunung_bromo.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-hrZPvs0iuhw/VqWec-d81kI/AAAAAAAAChs/Bl1v4J2fvh4/s800-Ic42/gunung_bromo.jpg"
+    },
+	{	
+		"nama": "Jatim Park 1",
+		"lokasi" : "Kota Batu",
+		"deskripsi": "Obyek wisata ini memiliki 36 wahana, diantaranya kolam renang raksasa (dengan latar belakang patung Ken Dedes, Ken Arok, dan Mpu Gandring), spinning coaster, dan drop zone. Wahana pendidikan yang menjadi pusat perhatian diantaranya adalah Volcano dan Galeri Nusantara yang juga terdapat tanaman agro, diorama binatang langka, dan miniatur candi-candi.",
+		"thumbnail": "https://lh3.googleusercontent.com/-dXQZBPwxpyw/VpgqOJlOudI/AAAAAAAACdo/RjUPX5853kU/s250-Ic42/thumbnail_jatim_park_1.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-Il506qnMu4E/VpglCmG080I/AAAAAAAACcI/Bx6OU9x17nU/s550-Ic42/jatim_park_1.jpg"
+    },
+	{	
+		"nama": "Jatim Park 2",
+		"lokasi" : "Kota Batu",
+		"deskripsi": "Jatim Park 2 terdiri dari Secret Zoo, Museum Satwa, dan Hotel Pohon Inn. Secret Zoo memiliki koleksi satwa yang langka dan tidak kalah bagus dengan kebun binatang lain yang berada di Indonesia. Arsitektur kebun binatang ini pun berskala internasional. Museum satwa merupakan wahana edukasi, dimana pengunjung dapat melihat diorama-diprama hewan dari berbagai belahan dunia. Hotel Pohon Inn merupakan Hotel yang design interior dan exteriornya kental dengan nuansa satwa.",
+		"thumbnail": "https://lh3.googleusercontent.com/-1p_Aq_RpJ6E/VpgqZ9xNl0I/AAAAAAAACeA/yymkwXRbfjU/s250-Ic42/thumbnail_jatim_park_2.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-H6n8yEOC-OY/VpglD-mdayI/AAAAAAAACcQ/1YcywSGWRmI/s640-Ic42/jatim_park_2.jpg"
+    },
+	{	
+		"nama": "Museum Angkut",
+		"lokasi" : "Kota Batu",
+		"deskripsi": "Museum Angkut berisi berbagai produk alat transportasi dari berbagai penjuru dunia. Koleksi yang dipajang mulai dari yang tradisional hingga modern, dari angkutan darat, laut dan udara dengan penataan begitu sistematis. dengan luas sekitar 3,7 hektar ini termasuk museum transportasi terlengkap di Asia.",
+		"thumbnail": "https://lh3.googleusercontent.com/-INv4HNJR5HY/VpgqaVe6FwI/AAAAAAAACeM/WR1_qBTDrB8/s250-Ic42/thumbnail_museum_angkut.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-2ZiHQ6NSsxc/VpglGc13FtI/AAAAAAAACck/GAnCmppjpcE/s640-Ic42/museum_angkut.jpg"
+    },
+	{	
+		"nama": "Pantai Sendang Biru",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Pantai Sendang Biru terletak di Kecamatan Sumbermanjing Wetan. Pantai ini tepat berhadapan dengan Pulau Sempu, hanya terpisahkan oleh Selat Sempu yang sempit dan dengan panjang sekitar 4 kilometer. tidak jauh dari pantai ini adalah Pantai Goa China.",
+		"thumbnail": "https://lh3.googleusercontent.com/-iZadM94sTVs/VqWmQWVZniI/AAAAAAAACiM/sabkHla0AUg/s250-Ic42/thumbnail_sendang_biru.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-Sr2CACIYP8c/VqWl1QfPD7I/AAAAAAAACiE/VyQGZkf3-FM/s720-Ic42/sendang_biru.jpg"
+    },
+	{	
+		"nama": "Pantai Balekambang",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Pantai Balekambang terbentang indah dimana terdapat karang laut sepanjang 2 km dan memiliki lebar 200 meter ke arah laut. Terdapat 3 pulau yang dekat dengan pantai ini, yaitu Pulau Ismoyo, Pulau Anoman dan Pulau Wisanggeni. Tepat di atas pulau Ismoyo, terdapat sebuah Pura yang bernama Pura Luhur Amertha Jati, dan sebuah jembatan yang menghubungkannya melalui pantai utama Balekambang.",
+		"thumbnail": "https://lh3.googleusercontent.com/-W3XJ9TrGLwE/VqX11Ei--TI/AAAAAAAACjo/2sboOjZOL3c/s250-Ic42/thumbnail_balekambang.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-PN-69Q9jzHw/VqX0p272GVI/AAAAAAAACjc/owgZd5quXok/s640-Ic42/balekambang.jpg"
+    },
+	{	
+		"nama": "Pantai Goa China",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Nama asli pantai ini adalah Pantai Rowo Indah, namun karena pernah terjadi peristiwa kematian seorang China yang sedang bertapa di dalam goa yang ada di kawasan pantai ini, nama Rowo Indah kalah popular daripada Goa China sampai sekarang. Tidak ada catatan resmi tahun berapa tragedi itu terjadi, namun warga sekitar pantai meyakini sekitar 20 tahunan silam.",
+		"thumbnail": "https://lh3.googleusercontent.com/-_8T7YEjraAs/VqXorMX9omI/AAAAAAAACik/cfr_h-CI2qI/s250-Ic42/thumbnail_pantai_goa_china.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-__ZjokR89CY/VqXpLc9XEaI/AAAAAAAACis/5luQuQWpx5M/s640-Ic42/pantai_goa_china.jpg"
+    },
+	{	
+		"nama": "Pantai Bajul Mati",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Letak pantai ini tidak terlalu jauh dengan pantai Goa China. Jarak antara Pantai Bajulmati dan Goa China hanya sekitar 2 km atau sekitar 10 menit perjalanan dengan kendaraan bermotor. Pantai ini cukup dalam dan curam sehingga para pengunjung disarankan untuk tidak berenang.",
+		"thumbnail": "https://lh3.googleusercontent.com/-4b2SN6nFg9A/VqXsS43cB5I/AAAAAAAACjE/bJ216v_ONIk/s250-Ic42/thumbnail_bajul_mati.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-BgYzZanv6XY/VqXr_2RFLbI/AAAAAAAACi8/XNaGOt3SjGE/s640-Ic42/bajul_mati.jpg"
+    },
+	{	
+		"nama": "Pantai Ngliyep",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Pantai Ngliyep adalah sebuah pantai di pesisir selatan yang terletak di tepi Samudera Hindia tepatnya di Desa Kedungsalam, Kecamatan Donomulyo, Kabupaten Malang. sekitar 62 km arah selatan dari Kota Malang. Luas areal wisata Pantai Ngliyep kurang lebih 10 Ha yang terdiri dari hutan lindung, areal wisata, penginapan, dan lahan parkir.",
+		"thumbnail": "https://lh3.googleusercontent.com/-H_AV0XEg0EQ/VqbC-1n13mI/AAAAAAAACkE/EYmYgB-9KT8/s250-Ic42/thumbnail_pantai_ngliyep.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-U3ToMivOuTg/VqbCZe0JeTI/AAAAAAAACj8/srC1x2n0r84/s720-Ic42/pantai_ngliyep.jpg"
+    },
+	{	
+		"nama": "BNS (Batu Night Spectacular)",
+		"lokasi" : "Kota Batu",
+		"deskripsi": "BNS merupakan objek wisata yang cocok untuk dikunjungi di malam hari. Suasana Pasar Malam bergaya modern siap menemani anda sekeluarga selama berada di sini. Banyak wahana menarik, salah satunya adalah Lampion Garden BNS, dimana berbagai macam bentuk dan ukuran yang besar sering dijadikan objek untuk berfoto.",
+		"thumbnail": "https://lh3.googleusercontent.com/-prX1nLmoVWQ/VpgqNCl3V_I/AAAAAAAACdk/AEyTwl-b8A8/s250-Ic42/thumbnail_bns.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-ZII5vdogxEE/VpglAZj5OLI/AAAAAAAACb4/-byfn6TBaOw/s600-Ic42/bns.jpg"
+    },
+	{	
+		"nama": "Malang Town Square",
+		"lokasi" : "Kota Malang",
+		"deskripsi": "merupakan salah satu mal besar di Kota Malang. Mall ini didirikan pada pertengahan tahun 2005.",
+		"thumbnail": "https://lh3.googleusercontent.com/-IOOpItcKFWQ/VqQSai6dV2I/AAAAAAAACfI/i_xk46KFne8/s250-Ic42/thumbnail_matos_malang.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-8ENFaoOB5ZM/VqQRKr1pdnI/AAAAAAAACe0/k6xe-Yzu010/s720-Ic42/matos_malang.jpg"
+    },
+	{	
+		"nama": "Mall Olympic Garden",
+		"lokasi" : "Kota Malang",
+		"deskripsi": "Mall Olympic Garden atau yang lebih dikenal dengan sebutan MOG ini merupakan salah satu mall terbesar di Malang.Letaknya yang berada persis di sebelah Stadion Gajayana.",
+		"thumbnail": "https://lh3.googleusercontent.com/-XRmzebYlYCQ/VqQSeg2OwQI/AAAAAAAACfQ/shuZJcVv5zo/s250-Ic42/thumbnail_mog_malang.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-a9OsNx36FRg/VqQRQPElKNI/AAAAAAAACe8/xdD7lbTh2u0/s640-Ic42/mog_malang.jpg"
+    },
+	{	
+		"nama": "Sarinah Malang",
+		"lokasi" : "Kota Malang",
+		"deskripsi": "Lokasinya dekat dengan alun-alun kota Malang. Seperti department store pada umumnya, Sarinah menjual berbagai hal namun khusus pada bidang pakaian pria, wanita dan anak serta aksesori dan parfum.",
+		"thumbnail": "https://lh3.googleusercontent.com/-udG2ojbbT1g/VqRG6YVQmBI/AAAAAAAACgw/Ai-jUtQI-t8/s250-Ic42/thumbnail_sarinah_malang.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-_RJHiWKFXKA/VqRFP3hk8mI/AAAAAAAACgc/W5CbvLoH_vo/s640-Ic42/sarinah_malang.jpg"
+    },
+	{	
+		"nama": "Mall Alun alun",
+		"lokasi" : "Kota Malang",
+		"deskripsi": "Letaknya memang di kawasan alun-alun Kota Malang, berdampingan dengan Kantor Bupati Malang, dan berseberangan dengan Kantor Bank Indonesia Malang.",
+		"thumbnail": "https://lh3.googleusercontent.com/-YqhvLDdm0P8/VqRG29O7YAI/AAAAAAAACgo/kXPvu8Jjxfw/s250-Ic42/thumbnail_mal_alun_alun_malang.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-LiTB6BNjacY/VqRElYp8h8I/AAAAAAAACgU/XkULbuN9zi0/s800-Ic42/mal_alun_alun_malang.jpg"
+    },
+	{	
+		"nama": "Plaza Malang",
+		"lokasi" : "Kota Malang",
+		"deskripsi": "Dahulunya Plaza Malang terkenal sebagai sentra fashion dan pusat perbelanjaan utama di pusat Kota, namun seiring berjalannya waktu kini Malang Plaza lebih didominasi oleh kios kios handphone.",
+		"thumbnail": "https://lh3.googleusercontent.com/-2HGo9TQ87nI/VqRMhMmoE8I/AAAAAAAAChM/7kK9_S0nIYc/s250-Ic42/thumbnail_plaza_malang.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-gsVfqtrh6kI/VqRL-nltvVI/AAAAAAAAChE/EUQwoYsAqJo/s640-Ic42/plaza_malang.jpg"
+    },
+	{	
+		"nama": "Plaza Dieng",
+		"lokasi" : "Kota Malang",
+		"deskripsi": "Dulunya Dieng Plaza merupakan pusat perbelanjaan sama seperti Malang Town Square, Malang Olympic Garden dll. Namun Pada tahun 2009, Mall ini telah diubah menjadi pusat belanja peralatan IT terlengkap di Malang yang bernama Dieng Computer Square (DCS).",
+		"thumbnail": "https://lh3.googleusercontent.com/-54B-ca3f0p0/Vqq8rqo-WVI/AAAAAAAACp8/deOlIPXtV_M/s250-Ic42/thumbnail_plaza_dieng.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-QcHPUjtridA/Vqq8FX66yJI/AAAAAAAACp0/pTs-KFt5QRI/s720-Ic42/plaza_dieng.jpg"
+    },
+	{	
+		"nama": "Plaza Araya",
+		"lokasi" : "Kota Malang",
+		"deskripsi": "Plaza Araya terletak di tepi jalan utama dan gerbang Perumahan Araya. menjadi salah satu tujuan wisata kota Malang, dengan adanya Pusat Kerajinan Tas dan Koper dari Tanggulangin yang sudah terkenal di berbagai daerah Indonesia.",
+		"thumbnail": "https://lh3.googleusercontent.com/-_goTrvL8jvg/VqrFmOct2yI/AAAAAAAACqc/vA1yhdY4s2Q/s250-Ic42/thumbnail_plaza_araya.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-H0KYYhil_kQ/VqrE6RhBu5I/AAAAAAAACqU/z0gHfbzpUh8/s720-Ic42/plaza_araya.jpg"
+    },
+	{	
+		"nama": "Pasar Besar",
+		"lokasi" : "Kota Malang",
+		"deskripsi": "Merupakan pusat pertokoan. terdapat juga outlet Matahari pertama yang berdiri di Malang. tempat ini sempat terbakar pada tahun 2003 namun tidak sampai seluruh bangunan.",
+		"thumbnail": "https://lh3.googleusercontent.com/-FnUPISoHyXk/VqrNwp1VeCI/AAAAAAAACq8/EsEgvT4bRX0/s250-Ic42/thumbnail_pasar_besar_malang.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-8lVgYlRUrFg/VqrNNBMDzTI/AAAAAAAACq0/eVu-sv70Da0/s663-Ic42/pasar_besar_malang.jpg"
+    },
+	{	
+		"nama": "Batu Town Square",
+		"lokasi" : "Kota Batu",
+		"deskripsi": "Batu Town Square (Batos) merupakan salah satu pusat perbelanjaan terbesar di Kota Wisata Batu. Mall ini juga menampung produk-produk lokal untuk dipasarkan.",
+		"thumbnail": "https://lh3.googleusercontent.com/-5JYKQOLQ-ag/VpgqMGbjMWI/AAAAAAAACdQ/fqcJWAhntQU/s250-Ic42/thumbnail_batos_1.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-v3vMfjv_xtY/Vpgk-Ut4uNI/AAAAAAAACcU/jKhz3bOQkMY/s500-Ic42/batos_1.jpg"
+    },
+	{	
+		"nama": "Kebun Teh Wonosari",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Kebun teh ini berada di kaki gunung Arjuna sehingga memiliki hawa yang sangat sejuk. berada di Desa Toyomarto, Kecamatan Singosari, Kabupaten Malang. Sekitar 30 km ke arah utara jika ditempuh dari Kota Malang.",
+		"thumbnail": "https://lh3.googleusercontent.com/--b50Xf2bN5g/VqmYLxxu5aI/AAAAAAAACpc/cUFcyJVAA60/s250-Ic42/thumbnail_kebun_teh_wonosari.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-jdw6itnKUUg/VqmXvVLlByI/AAAAAAAACpU/_zBzGt7abE8/s700-Ic42/kebun_teh_wonosari.jpg"
+    },
+	{	
+		"nama": "Eco Green Park",
+		"lokasi" : "Kota Batu",
+		"deskripsi": "Merupakan tempat wisata yang bernuansa ekosistem dan lingkungan yang dikemas secara cantik dan bertaraf internasional dengan udara yang sejuk dan lukisan alam yang indah. Menyediakan 37 wahana yang memadukan Konsep Wisata Alam, Kebudayaan, Lingkungan dan Seni inspiratif, Menarik dan Mendidik.",
+		"thumbnail": "https://lh3.googleusercontent.com/-L_popIMoHzA/VpgqOEIO1OI/AAAAAAAACds/J69a-96ldUM/s250-Ic42/thumbnail_eco_green_park.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-lUFR30XMbX8/VpglCYAN-II/AAAAAAAACcE/pHkKfqeSK9s/s720-Ic42/eco_green_park.jpg"
+    },
+	{	
+		"nama": "Wisata Paralayang",
+		"lokasi" : "Kota Batu",
+		"deskripsi": "Wisata Paralayang di Gunung Banyak adalah salah satu wisata outdoor yang sangat mengasyikkan di kota Batu. perpaduan antara keindahan alam pegunungan, hutan di samping kanan dan kiri dari gunung banyak di tambah tatanan kota dan perkampungan dari kota batu yang terlihat dibawahnya.",
+		"thumbnail": "https://lh3.googleusercontent.com/-eZ5qjxh-fm8/VpgqbYcvgqI/AAAAAAAACeQ/Q0rRCG2PsJg/s250-Ic42/thumbnail_paralayang.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-Qao1JSYcWr4/VpglHDuQenI/AAAAAAAACcs/x0pSoEHW4CA/s500-Ic42/paralayang.jpg"
+    },
+	{	
+		"nama": "Rumah Kayu",
+		"lokasi" : "Kota Batu",
+		"deskripsi": "Rumah Pohon Atau Omah Kayu Batu Malang Berada Di Kawasan Wisata Paralayang Gunung Banyak Pujon Batu Malang. Lokasi Omah Kayu ini disebelah utara landasan paralayang, para pengunjung dapat dengan mudah menemukan papan penunjuknya.",
+		"thumbnail": "https://lh3.googleusercontent.com/-EvS2EuYl2Is/VpgqaqcW75I/AAAAAAAACeI/S_9SlWOhsMs/s250-Ic42/thumbnail_omah_kayu.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-vgzz76xh1IA/VpglF7sJNJI/AAAAAAAACco/w-Dj5WEhGy8/s720-Ic42/omah_kayu.jpg"
+    },
+	{	
+		"nama": "Masjid Tiban",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Dibangun oleh Romo KH Ahmad Bahru Mafdlaluddin Shaleh Al-Mahbub Rahmat Alam pada tahun 1976. Masjid megah ini terletak di Desa Turen, Kabupaten Malang, Jawa Timur. Menurut warga lokal konon masjid itu ada secara tiba-tiba tanpa diketahui bagaimana kisah dibangunnya. Bangunan megah itu bukanlah sebuah masjid melainkan Pondok Pesantren yang bernama Pondok Pesantren Salafiah Bihaaru Bahri Asali Fadlaailir Rahmah yang mempunyai makna Laut Madu atau Fadilah Rohmat.",
+		"thumbnail": "https://lh3.googleusercontent.com/-svPjCjoA9w8/VqwOK4iDfhI/AAAAAAAACrc/po6mfYR-9bE/s250-Ic42/thumbnail_masjid_tiban.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-HLH_-w7O6qw/VqwNYBGxaUI/AAAAAAAACrU/sXIIrlMaYEU/s640-Ic42/masjid_tiban.jpg"
+    },
+	{	
+		"nama": "Coban Rondo",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Berjarak 12 km dari Kota Batu atau ± 24 km dari Kota Malang dengan waktu tempuh sekitar 1 jam.  Akses ke air terjun Coban Rondo ini sangat mudah dengan jalan yang sudah beraspal baik.  Jika dari jalan raya arah Batu - Pujon, Malang, setelah melalui tanjakan yang landai dan jalan berkelok-kelok dan terkadang tajam, maka akan sampai di puncak perbukitan.  Sebuah papan nama dengan ukuran besar akan memberikan petunjuk untuk belok ke arah kiri keluar dari jalan raya guna menemukan obyek wanawisata Coban Rondo.",
+		"thumbnail": "https://lh3.googleusercontent.com/-yP6OW8_3Jq8/Vqll2edqvvI/AAAAAAAACm8/jhlIJSFzrTg/s250-Ic42/thumbnail_coban_rondo.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-3c4FDSN6cCM/VqllX-tIZKI/AAAAAAAACm0/Pq-Cb8SjrPU/s720-Ic42/coban_rondo.jpg"
+    },
+	{	
+		"nama": "Coban Pelangi",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Coban Pelangi merupakan salah satu wanawisata yang dikelola oleh Perum Perhutani KPH Malang, kawasan ini dikelilingi oleh Taman Nasional Bromo Tengger Semeru. Air terjun ini berada di ketinggian 1299,5 m di kaki Gunung Semeru.",
+		"thumbnail": "https://lh3.googleusercontent.com/-4FMObfOZ8SU/Vqlv2Bfsu0I/AAAAAAAACnU/JUVX9wSqGJE/s250-Ic42/thumbnail_coban_pelangi.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-iqBwH7omRV8/VqlwYcRaJDI/AAAAAAAACnc/nz5eenC6FO4/s860-Ic42/coban_pelangi.jpg"
+    },
+	{	
+		"nama": "Coban Sumberpitu (Tumpang)",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Sumber Pitu merupakan salah satu kawasan wisata andalan Kecamatan Tumpang, terletak di Desa Duwetkrajan Kecamatan Tumpang, untuk mencapai ke sana anda bisa menggunakan kendaraan roda 2 maupun roda 4, dari pasar tumpang, anda bisa mengambil arah ke kawasan wisata Taman Nasional Bromo Tengger Semeru.",
+		"thumbnail": "https://lh3.googleusercontent.com/-23ONQLBDJEU/VqmDyMJbEaI/AAAAAAAACoc/0HlD3cNl7NI/s250-Ic42/thumbnail_sumberpitu_tumpang.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-w5Wub4R2LQ0/VqmDBIVPaFI/AAAAAAAACoU/qM3JfxJQEno/s720-Ic42/sumberpitu_tumpang.jpg"
+    },
+	{	
+		"nama": "Coban Sumberpitu (Pujon)",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Terletak di dusun Tulungrejo, desa Pujon kidul, Kecamatan Pujon. perlu diketahui bahwa air terjun ini berada di pengelolaan perhutani. air terjun ini masih alami serta tersembunyi di tengah hutan.",
+		"thumbnail": "https://lh3.googleusercontent.com/-nEKukd_hPC8/VqmL7MMRuZI/AAAAAAAACo8/hFS1BoI4Els/s250-Ic42/thumbnail_sumberpitu_pujon.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-82J-Z9QduKE/VqmLL0iskVI/AAAAAAAACo0/o5R1X8T1J5M/s720-Ic42/sumberpitu_pujon.jpg"
+    },
+	{	
+		"nama": "Coban Talun",
+		"lokasi" : "Kota Batu",
+		"deskripsi": "Coban Talun  berada di kawasan wisata Bumi Perkemahan Coban Talun di lereng barat Gunung Arjuna - Welirang.  Coban ini memiliki ketinggian sekitar 75 meter dengan diameter +/-15 meter dan pemandangan yang elok di sekitar lokasinya. ",
+		"thumbnail": "https://lh3.googleusercontent.com/-W3Lt0fCASog/Vql4AT4ZQ-I/AAAAAAAACoA/RTeOX6VI6lw/s250-Ic42/thumbnail_coban_talun.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-UVhRyHOVKdM/Vql2-G8TA3I/AAAAAAAACn0/xK5n2Ka5sKU/s720-Ic42/coban_talun.jpg"
+    },
+	{	
+		"nama": "Cangar",
+		"lokasi" : "Kota Batu",
+		"deskripsi": "Cangar sendiri merupakan sebuah nama sebuah dusun sekaligus pemandian air panas yang terletak di kelurahan Tulungrejo, kecamatan Bumiaji, kota Batu. Cangar terletak di dalam kawasan Taman Hutan Raya R. Soeryo. Di sekitar mata air panas Cangar banyak ditemukan gua-gua buatan peninggalan dari masa pendudukan Jepang, tahun 1942-1945.",
+		"thumbnail": "https://lh3.googleusercontent.com/-_Shs2_FZNAI/VqgqEg8rnnI/AAAAAAAAClE/7tkzVsEf2c4/s250-Ic42/thumbnail_cangar_batu.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-_PKw08FNnLo/VqgpmDVGe6I/AAAAAAAACk8/Y8MKb1R2gzQ/s860-Ic42/cangar_batu.jpg"
+    },
+	{	
+		"nama": "Selecta",
+		"lokasi" : "Kota Batu",
+		"deskripsi": "Selecta sudah menjadi tempat wisata sejak tahun 1930-an, sejak masih penjajahan Belanda. Selecta dalam bahasa Belanda, yang artinya adalah pilihan.",
+		"thumbnail": "https://lh3.googleusercontent.com/-tWj_l47ERuo/Vqg8rkEBFEI/AAAAAAAACmc/_nU1rK4L62A/s250-Ic42/thumbnail_selecta.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-LQlZ9cD10so/Vqg8JHeo2kI/AAAAAAAACmU/UVOp1BghCnk/s800-Ic42/selecta.jpg"
+    },
+	{	
+		"nama": "Sengkaling",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Pemandian dan Taman Rekreasi Sengkaling merupakan salah satu tempat wisata di malang yang sudah sejak lama berdiri. Lokasinya sangat strategis karena tepat berada di tepi jalan raya yang menghubungkan antara Kota Malang dengan Kota Batu.",
+		"thumbnail": "https://lh3.googleusercontent.com/-mIWdoYfDBr8/VqbP9ZCiAiI/AAAAAAAACkk/adF2B7Nim_Y/s250-Ic42/thumbnail_sengkaling.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-QmpSZqwsMNI/VqbPPCIWpAI/AAAAAAAACkc/whwAxtga9os/s800-Ic42/sengkaling.jpg"
+    },
+	{	
+		"nama": "Batu Wonderland",
+		"lokasi" : "Kota Batu",
+		"deskripsi": "Batu Wonderland merupakan satu kompleks hotel, shopping center, playground, dan mini water park. Dari sekian banyak sarana hiburan yang ada, water park atau biasa dikenal dengan sebutan waterboom menjadi salah satu daya tarik utama tempat tersebut.",
+		"thumbnail": "https://lh3.googleusercontent.com/-ZAda9Jwo-qI/VpgqMUnAJFI/AAAAAAAACdY/WQIR8NQdsVk/s250-Ic42/thumbnail_batu_wonderland.jpeg",
+		"gambar": "https://lh3.googleusercontent.com/-lX9JUEC08-c/Vpgk_yRPiUI/AAAAAAAACb0/a6jgrByQnIc/s578-Ic42/batu_wonderland.jpeg"
+    },
+	{	
+		"nama": "Waduk Selorejo",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Terletak  di Kecamatan Ngantang, bagian barat dari Kabupaten Malang, Bila naik bus jurusan Kediri-Malang atau Jombang–Malang dan sebaliknya, tentu dapat melalui pinggiran kawasan ini.",
+		"thumbnail": "https://lh3.googleusercontent.com/-MPqkpPmiB5I/VqgwL_50q2I/AAAAAAAAClk/1wqebEVEhKc/s250-Ic42/thumbnail_waduk_selorejo.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-N89qZkyOFHg/VqgvxFudmiI/AAAAAAAAClc/XaeQnFoyVRk/s720-Ic42/waduk_selorejo.jpg"
+    },
+	{	
+		"nama": "Waduk Karangkates",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Disebut juga waduk Ir. Sutami, merupakan bendungan yang menciptakan suatu waduk karena tertahannya aliran Sungai Brantas. Waduk ini terletak di Kecamatan Sumberpucung, Kabupaten Malang. Wisata Karangkates mempunyai dua lokasi taman wisata, yaitu taman wisata Karangkates yang terletak di sebelah utara bendungan Sutami dan taman wisata Bendungan Lahor yang terletak di sebelah selatan Bendungan Lahor.",
+		"thumbnail": "https://lh3.googleusercontent.com/-XZD50TX20so/Vqg4TMy8rOI/AAAAAAAACmI/3NN4EdDu5_U/s250-Ic42/thumbnail_bendungan_karangkates.jpg",
+		"gambar": "https://lh3.googleusercontent.com/-TbRH00sxrUI/Vqg3feb0sYI/AAAAAAAACl8/kGfAz4V7Hgk/s720-Ic42/bendungan_karangkates.jpg"
+    },
+	{	
+		"nama": "Pantai Clungup",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Pantai ini berada di sebelah timur Pantai Goa China kira-kira 500 m. Jadi, sebaiknya Jika membawa kendaraan bermotor sebaiknya diparkir dulu di Pantai Goa China. Dari Goa China harus ditempuh dulu dengan berjalan kaki di sebuah jalan setapak dengan melewati perkebunan penduduk dan lereng perbukitan. Setelah melewati bukit tersebut maka sampailah di Pantai Clungup. Pantai ini sangat asri karena jarang dikunjungi wisatawan sehingga suasananya masih sangat bersih dan indah.",
+		"thumbnail": "https://lh3.googleusercontent.com/4_PCNiS_01tYnBnPW9Dz8tDXoQTPB5K7acyZ6a2zuct0NoZwpTEeyhLnh_-R1lUl9zWOp102bt3H74311tFdhZBlqwg0sUcYCzHUAw1eXDX0mMSZ8Y_5_0lSsIU6-q8IyPmJ2Fu5GhVIZjoIvBvv988pNdcVnRxOfyW4wrZuSDctX1OcYdod5FGxu5IG166a6ggoql_Jpv4VTs7Z5BFvwZ6SuwcOlxYHBWdBvuVO-eQaCKwhy8j1pMymgClAZ9zsXI3ilZl0Cl2a7IgtVphyrrT360JFlYqmGbKq6b3NJk9C9ugUNJhuG2xGp3BbOtbwGaAMGF983LmaMe3TkJtQXxDKShUynqReAAMu8q3wPgAX3S8py0VPmecXXbFnE3hLyyZ5081cgleUa17Wk047mv44eWl-96e1pbm8DZfqz7YDRkAx-qeKuIyDAllxY0XUcH2gAXm4I_pfSvJFoXGRmSB67ujkRvlcZdWxdWLx4l5bg-lqndDCMXiq9Ovb1yT7ZanVR8ASi_QaZhFoV82a6_iig5vwgBrOlyuX3zXzi0fBPmIOOrHH_HwFf4yK_84yKUqP=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/pYgSgURXB5kdWTx_34FT4Pb1GtXTcQAkHtuB6YgngPYof6QPpcQlxma1D-QzYjAPw1CLcOC0xrK4TLiGYzvqOc07AnOkNSwtvdpor5H_cDGRSW8zSDALbpt2_j0v-zIn8IcT3PM3H-HAjipVLIQSQhMyyjAnXL3zWmCBqyBfz-FHpeVKQZHbR4LtjzP4ARtJR3ZZxsP7tiLZK_qwW0RApaxqeD9tytXiphqrqJg-xVphYWBO1jQz1zxlhgZ92Yzw2raS7reQwfG3JiQbEfSyihtMeXs3B11W4Lqy4J0Z5X68fTV-oFHWegik_sykjGiKnks0Yu972I6QBL0W_lvICCTYs5UuYg9EnXNxzbb5o6DxqD6uz4BHUgCYQdlV4Hw5BhZUWCaXk_lyZDZ0bD1pBNrpEs9SmHLEwa6pU3iZqkNzNWtpt4aO6qcO1fvTYrPINkxDVFABQLPXB9DQrOpNEzUVkvFFKhR8FOI5TUrEv41P6rVoCfXW1Vh5FxCTwdb8fj6bW5oPi9-stsb45fNKqnloRzvmoYpNyHuGWc8u-GUnjB_zZl6UhMAPtI-vUckfqHJ1=w900-h598-no"
+    	},
+	{	
+		"nama": "Pantai Lenggoksono",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Terletak Dusun Lenggoksono, Desa Purwodadi, Kecamatan Tirtoyudo. pantai ini memiliki hamparan pasir putih seluas satu kilometer melingkar dengan dikelilingi dua tebing yang cukup menghijau karena tumbuhan rindang. Bagi penghobi memancing, Pantai Lenggoksono menawarkan banyak tantangan. Selain tempatnya yang nyaman, ikannya juga banyak.",
+		"thumbnail": "https://lh3.googleusercontent.com/5rMKjUW8d2gDd1IZQHsEWyMY09Js94iXwA-sdG0CSQzyDzAVZWsZh0DlUYEHldfOPNGGKAN2Sgg6Q9zS2Oo4-f7vu7WpujE8QBqzyTL7DxlqRYgCHtgzYNz1t5KWWG_ivq2Zj7-BbyVa87Ft6uslRpM8AXOCsQjsP_y95AweTdrRyupl3wly6Qj3EKMvw1Y5nIxD2O3m01k3Y0GXo27mjxnSyRO4TtM-aYP7tDrJphyN6a9V_IJu4R69wqNDx-xHMCDnjI7aQC9YphJhqQ05G36qzBwgUfeF80SfgqCa0EQ5ja2Esb-_HIhFuJiRsht0A8v5ewjR0AuBl0W0Mv_mUkHP1SLyLT5wjp2snLJzt7vpeIeeueH7ww3elz22d4oad3K4Tn1CY_0Nf5KL8rK6jO1bysSB7W2CcZUbG4glNI8snG0xyKcYjIjo-ju_AB7hw0oDBVx5_t6sja0C8lYYPUvzku5xMrfwsRNWTE0UjArN5uXrvPYCL5CoqDbo5md37B_I-Cs8AWKJymtA0xkNZdJrpKM_l0A3tZsdx5156ykZRbeDNkCksFCEbKxUqni_gy0n=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/8Mt2hc7Zmc7RmbnFV6eF9cs-Cz0pBwcwXGsKYDSZNn1jfWcl1zp7sQwaAN_9ARuwaG8qo90ygt6ZYLG9xTEay8d7N-tbJYbOdtHG67Pu4HaCtAusRNOHIucMFkMYoSnCPWh-pGID9Kgk7x6wKc1OHAeAvT9EHNNMEQcwjFFiDPR58zLzVDL8CKV6TqKh1Im6pHymWgqnmvjnysbC7l4ltIyv2Vz_Mx3ceJ-Hkqh1kT-wDFGxAWLo93bujOKHfbmxgVNDtnrkK5tWlM8u8Mpb6fVR-cLm2geK7IfuAwe5qYW8C5Zs3OT3BB8030cX3-BMRKBJOApkWsaKD8qofA5LC8WpOZjtg9dpnQ8UZzOr9MUffEeQDuqmY2UPyjgWQIH6NNMjnoGTL6pckSwoj7ne-Cwlxm7Z7hDpN-5n-UqHLEr55GCiKGIQNTo39CPLnsgm1HezXgtdyTs7ZhxupPVZ2VJM4lXukJ7wQtR7ZO-lEuHQj3BLoYrxirJdLbPCT8HCuL0Y6S8TW15aCP_MGH-CnI4EGhOu8Smp5TBVMszTjmw8zhgQybH4uG-MgmpkkIaxF-X3=w900-h675-no"
+    	},
+	{	
+		"nama": "Pantai Bolu Bolu",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Pantai ini yang terletak di daerah terpencil, masih satu kawasan dengan Pantai Lenggoksono. Pantai ini memang sulit untuk di jangkau melalui jalur darat. Karena jalan untuk menuju pantai Bolu-Bolu hanya berupa jalan setapak yang jalurnya berada di tepi tebing yang curam. alternatif lain yaitu saat ombak tidak terlalu tinggi pengunjung dapat menggunakan jasa penyewaan perahu untuk mengunjungi pantai ini.",
+		"thumbnail": "https://lh3.googleusercontent.com/ndstdRZCYTzUV30YXPOoPoelPqfhu9sCYHOWrNIzfZTZhFe3wPjHLx8B33eev6oJwGdfRgH7qU3YubHYmkvT4ideneDBYr_4KH7rtbucyyQ3XPfIdJf_rBQmZvQ-g-i6bolEhN_zzY-oazZ_PZool3keJdTECIiKUPllWUDMi2cxQlqCxXA7oow1x45PrRGOnla9SEYE5v_VvtYJFWpT3qIYUsYf704NF3wH7MkxH8NValt8z4eaNa-xeDSWXXX3-0xi-NrPJZTiZRWn4PKWOnLyJkqHgeYDDcP1aeC-eCJGW8waw4uRIwO3YnMHLRR7pn0gBR0aUfOHsnhDVFjBn8eXSYR1Y_KaRwNgzO9ZXg-YiBjJdAtx4VNCpHslj-mj1EeLdSYwNyejaoMmqkBrZw_v7FTA3m-mjxZuPZPQzZ2MtV5dPfmu2qDRIQ1SyKgkSZgQikztKNBr0XqBvRLxtRS-6VFFdf21S7QJ4zSTuNJX-d1jDtBMaSzdR3z6tgX6qPzyyssQqNB_wh8hmNisfZfGYaKbW4ROcIOELtqjwd3UCJk8u9jnt2bLNaXv6ObimEik=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/VzNqPjwbs36RlD6PcnJJ4EeAM6XqOfX8Au-MBfbZVcAjvk1ofuqE9_nXQh1SB4Q7LWEG83Cis1HuRr-1hHrnARecefgalCmQWXVzhkUykt2lxNj0Xsh9RJgi0PjIbkbPWsPVQ9e7wKdzpdMX5sVCmqM1hoBQkUx0gISILduzj9OIsBmZKS327HTj4p3synt26Fw6rbAVP7SeWVxdkTzex-3jRsaG7Gfn3SFcgje0QKpeCIjFOvhS5FDR8TGq8A3BNIMJHaWeMAloTQrwlzsfu_outUyC3LN53X-imaO2dDpmA7DOaYYAHqpMitoN97qDzgnP3aBsf0BfspK9jpG4cM94TjNsKx0R1CkWmSbwE5TztpREjO2okX7T8-wsK7aHMk5xI9Oq1b-nca9B7fbSmMI8TfFxadsdnexASvyxyg83bEuRFDSfkiAiXy8ADsx2FJRjdUB3oRqUWl-EIq9dDkDVD11UMBLRCASwjbW0dcpZ_8BH2z1VL1mnnO5angutUdvXQqOO5goWyxxES7pmE1C6DRf8GbLr5RzgNvDBKaf79T4tsvtAALCHmH8aVdBBQIkW=w599-h337-no"
+    	},
+	{	
+		"nama": "Pantai Kondang Merak",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Dinamakan Kondang Merak karena pantai ini memiliki kondang (muara yang merupakan pertemuan air tawar dan laut) yang dahulu banyak dihuni burung merak. Baru pada tahun 1980-an, burung merak mulai punah akibat penangkapan liar. Pantai ini sudah cukup dikenal bagi wisatawan Malang Raya. Bahkan pantai ini sudah menjadi jujugan wisatawan lokal maupun asing untuk bermain snorkeling. Keunggulan sebagai tempat snorkeling inilah yang menjadi salah satu daya tarik yang ditawarkan pantai tersebut. Untuk menjangkau Pantai Kondang Merak, Anda bisa mengikuti jalan menuju Pantai Balekambang.",
+		"thumbnail": "https://lh3.googleusercontent.com/EGXuYf4EpGJHd8kXCX4hPo7vGdeg7kwYhbHhQT8ArVeGsMM3gXxI_I11_HJuI_FfOq04N3MjI5-wDhXKntPBzxlBfL1tNI-BQeq3C59QklAaff_s7AL93GAV6-8khm9EhOd8R_9204v01Q3RDvPqeyEkCXKIFo2QhwVkeNv0Cy89aQOfnX7eIvWf_nGWbNXDOg9DhkC4vMJNib7zMrD23dIi7qJLAzwqsmuh5LJ4Yva6UMAizgZMWYMlPV-xKha-2to_5cEeMUaOpEaBGRhuNidloQs_bVUh4lQI_Z9NC9Ol7R4erDotaXdF_uAd5pFGNytTxERKwzG-IINMuZzFQFsfXj708wmhd8p5dLdEleIuMwH1oB8yEQxZGpM7yCMxY72jU-Cg4iY20bhr-4uixGIanQsqYif4XNG-VvyqIxvhSD9yUZmWBgVp61LDW9LJkQPwIO33X-cUPjuww5FqqQTZ52qZ0nYapK9FGXWladvciQSsNxRvarIRk8SpWECoTU90UjL3Z4zVmZIn3gHcA0t9_Rp58h_PmTXo8gMpyALhWQ2gZ9S8OVreLmt7naplDFeg=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/ezL-UBHCPUgZfOndTFIjeA4kk1PanjEiyMyaWmtlR-ZQxP0QPeWHuOcRYfMI3yKoaTdKHQK6p4J82WlXWsQILURgZ325jLgSAkCZbRpAvCKW_I4LEex2lJYtGFfDcYOURMh9jA_dtM3slxfBIyXJdkqMyvn-Q6c1TzqfUCm7M1r_J7QVxfmNfIajSOIHhA49voSoe33mY3eEWmRMfyuYQz50opDD_oqbfu1G1R5NJO2_apFuc38kvQdM979SCS6o5mTAfg1GvySubzTNoGR214uHCnPyfshav6Sb_qh7lNS9JDxM09rXXJhk8hwVFgvk66bMolUBMVoUoKRdAFmc-kWl3iLhPOF80cBEg7eEcqopAXIwlXGD0ezvrF2KXJocK3fLeiFqm_qwIW5liOd_Wkp359q7W2D23iZYjsff8qflvaepaamJPBxhcA7-x15zkt8Gfpl28nnRPVJIeQ5NnwnJ6Fk3OoqDBw_B3ER-J1OACq32t7DXHSwWlONNC-ehNJ_CcDsYQODqaPyB1pVEQBT0TuUkqPWLy7ilrN-n6BL5f1O1At3Gcih6e_WpVhANB2Sj=w950-h713-no"
+    	},
+	{	
+		"nama": "Pantai Watu Leter",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Pantai ini letaknya yang bersebelahan dengan pantai Goa China. Suasana pantai di Watu Leter ini hampir mirip dengan Goa Cina namun bedanya disini suasananya lebih sepi, sehingga tampak lebih bersih dan tampak lebih tenang ombaknya. Selain keindahan pesisir pantai dengan pulau-pulau kecil di tengah-tengahnya, kawasan ini juga menjadi tempat pendaratan penyu untuk bertelur.",
+		"thumbnail": "https://lh3.googleusercontent.com/pGKnLvcRL6YwcQgO9AyBQ3Y7ATmI3c1jpSOuRk4m1yQVRJN--eOFVj7iN6dr8rCmxRbEpnKfD7Fa_iH-OfS5CVIPUzBa2X4XEi9v6NYgJj99et8inT_G-ndx_IJhCpkKXyNnEfX-JBjjzM6-YlR_RwmCh580rU2TKZy-EqEsqOpJ1TQWB_923BavfenIDMsU3lhF6CegjseycOPW4ol--Gx_wgzQY7ObApB0c3oC7EGLU4ZHSJGPA1Zil8tF8FOnmIBVDGJ1JrviF8G-OIqYTQJAE_ztf6RFEPQMqLk-X7D3SVll-HXaitGCBm29biplNawUNyUD5n1DdnhYcOX-yNovTsYOGaQ_tvnZnvTVRLpg_7sr1nADvGkPPjoSHQI6-bc5EeUOuWfaS4qoPE4EY3n0pPQ2llYaP-Czl5PhPoz_SqERu9uHzxw1HeC4AVeuHq2MWkHCNpgCvhvm6hv4ANb4z0oLvOe0k3f4yBMRAMSHs8Y5Jo-vRytJ8F793VJvueN_k_O9q-5VwG8umhkUYKPnUq4Ud4Kgr067n3eMldTkf7ctz0PWG-nzK1vec3VKJp1Q=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/cMUQuiAiTkcPI4SMG1MKU7jeOaU_GSiE6FTkeMWLlpu2OM-5R_tDtTJHKkacyL9O3HZ5vaYm4cYgkZkOBJUx-85O_k2XOdSk3cHN-1CORd0pnyE3D3tqBiBj219U3C6i0TrB7Ow2PCnf8FrFjGl-U7sM2YMgEgoD9OPhIFLjZdb8w_DeXXizaD-5jWNiLo8WZETf4aYszDgg-Lu-WRHkcAsLNu_oxtGwvi_MPt72keYfbnSA5rdxtx4EbU4UMeXDfh1ljyIZC96i8xFSVi4r9LWI1S4KKcEj7n0AwGCSjSpZE28NQ_0tx6YRqQ47wmAAw2pIQcFo5nAS8wf2402d-cgg_1oRiSOm1dgtQ-rir9wifYVSeJe0MQY9Jl6Qk3WuP77QnHAv-n4FzN233K_JImsnpwohNwL0qC6Jnbu5Y1efWKARTOvSiVpdgWnLGdlWZhMhyF72hLs642YwkcV-88uFgiw0KG6Uhn6dwkvyDfE3KxKClvAJCMuityL1ZiVq_FouWfq5_QpXmX42uqnXbAa2SZWQ1ITZCt44bdTpc9z0Dui0dlL9F1RlKf30OgWiQG1A=w1143-h761-no"
+    	},
+	{	
+		"nama": "Pantai Ungapan",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Terletak bersebelahan dengan Pantai Bajul Mati. Di sepanjang tepi pantai terdapat sejumlah gubug dan gazebo sederhana yang berjajar dari timur ke barat. Pemandangan di Pantai Ungapan ini juga tidak jauh berbeda dengan Pantai Bajulmati. terdapat deretan batu besar berbentuk mirip seekor buaya tepat di sisi kanan pantai.",
+		"thumbnail": "https://lh3.googleusercontent.com/lpJ0acO60jdfdtjK0AZr4yTf5U_DRlnTK3RlHuyMeP_y2qvsIsdl3tthT01bB-FtziY7868fOTQo8H2OkIKoNnsUiW1b-A2YrssYLfY-iwonMJgmZyDheq_eTpajuF9FddfJrGDn6ZSq-yYSaA62646JUnekAtRHOVop7-R1Bl-Y2V4C-eROiTWam3Jn5vQ_aF0Mc8DdTtFkapzSew2-UuIROuMlELavcdZZm0TaAL5TkSlrYaEYO6U1B8s1-q9SaZ2uNdw7YVQRz0OjoycEbkzsAvL4QKBJc1dQa1BjELaowLOgEK2N4Yt8OZof46ZisVI3f1Cl2GrW7c4pcl6nvp-qQ61NyLIm2dzaCP_kkkYUu9rQL2uG4-OPuksDvXvwLZRdrwIMBOv2APEiOA9xDiVa5P5eeZdI-U_utHuRW3t-5pYY7HhK9fWO6z2_vr6dlDq7VBFtDPsAzP1ISmumxjBS7PWSUfW2boyFJMp7Zh2ukG91LzoSTOSWlyQF838xt8_GdxjKwvEFtrFt085slylm8l5yEjg93b4EWvXgitrB_tK-u4wHYlvj7m1lY9noWpju=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/3oBQc7xKi7w8S5VGodjHPdlYS6HiIv_97RTRyio9JNqazPWS81rJZgsPs3-Gd7qTAGSTw-QEB8j1kPOwFG7VfaCm98J2a6aJKBwhwYgFbsaY-M_YF8NFZELRQBfOHIJn7DSSetHQYXbTyuliMrujSkBZzoSN7vO5SyirXT9V_1nAkfCX7wWqVaJ-wGDvO6xT6H8ZAO6uluywMXQ9RV2QXhvk3mXYctSbREQLGcX1fyqQEZgUPqqS8HT-VzQSdZQ15DAgmrvMZ8W6Z63xbbuuwS0HTMBet23eQ2kSM5__DC_3ukKVJHAc8_pPC60w7NTNd9StGWbVye6AZuNU8Ra4SxPrgFHvtSf1Xb7Q09syGL-NEzf_avBN0O5-52oKpg33oU5rR1kcnnWBvEUtxbRLXJHyH4B4i4iLcYjuAq_jTdL2NfaF5EC9bnmRqX0By0NEkhvkPbl_C-u7EFaxIH5vpGx9L-vnBPZVmOtC3u3zK3uOIH0q8hieln-Ec6ddNs5bi1o-POFmWe6tNlcZnS79mMOe-U5dxfjQRJQs9UAnc4YGp--Zgt6qyTLyz0iWoujvOxP6=w1024-h682-no"
+    	},
+	{	
+		"nama": "Pantai Bantol",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Pantai ini terletak di Dusun Sumberceleng, Desa Banjarejo, Kecamatan Donomulyo, Kabupaten Malang. Pantai Bantol belum dikenal secara umum karena jauhnya dari perkampungan. terdapat danau mini air payau yang merupakan muara sungai kecil yang mengalir dari hutan di sekitarnya.",
+		"thumbnail": "https://lh3.googleusercontent.com/oDjh_9EMuy-YegD4aDqE1JR-EIRRcMbp27CNrGoRSazn6D2z6gYQIGWhNmCGuXvJmhTZZxxq0vMkZ26-PtccfrBT5CIOormBTaLJvLpO6yfMnB9i5K5hZYmbsvnOmVq0hXZEDYXMs3GOaO7OQJcGoGFhUlrlrTzLDP0zWHdwfZegicarHPhuteN6UW-tGMhLvRafbUwMHq2WuZ9sR4dY66X3LGxkqMfZtwjtOZXprhk_iHRbMnK5Rr31iepXph-l3fEkrtezIzogNn6ftU79X1pE_F681G-PPDHsuCKhLh1_kuWixpCvvS-GVkbhMcYxUPF1GTqV0fkD0O90cDHxecHjEUs3qQnDc_EH4tTosSdeJZUUm4fiA4ghJo-HgPFV0GRzEMBMhjBvuisCUTpdnrtmvEjCgaolnX8LNQD-9HFwWMOkE0Qq_et5xGXJV6e5CHhZqtDnu-X6vl_zTKdeS73KoJF9bm_PTXirrobXKH8-O0OusNH0l2QTjNgBWIlIMcycn4IIq5FjBToqCNdlzu_YwvRbX3llKs6F4EIhGBudm-U4qdCda4ecZf0gfoltOn1m=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/z6WF5eFoFDL_40ynS1z6Rl1q5qsJnoABpVK6LShhI1Uhjo_AT0-MgiOuXxEtVvCZad4FJPRc3kIbvaNqghsV0uBo3hvSUAZj0-Sxa5ARMvkO7q0TPKueiUPDYv0p4xiUqBmRbpLriqMy2yGJoM7JJ2G-bOo4Y6pM5JzxP4jOAD14308-J526S3vJk7PSxcN7Pkvf9mXq8wMqu8SekDdjhcH__B8itLVNLVDMsC6qZ02EPKKCy1M-VP9ptyW3oYEvVRer1fvif_scoy6t7Cg8sXlOmP7h56HOLEPWbAceoAyBCyl0AnrFBLhTYpNNJkMjfkhZ0pbmzl8hxyH3ej2ejU3EdGI8GjOK3KsrZacV386njAjl758xL1KW3RIsPiuLUk03OJ8-vELGrJ3ZPrdUotF9YZWxl09r4hn8M_Qv0JcXB_3h0j1gU6_6c49iA6Mx1YGth6sA5wzNarduEPNnMYuWx8hGH6ziXQpEwx_gfxf34cRxsIWPkzrGxAEEq4fRthaxhSbwqS4K2ZI2obdJLq5XM7qCZj9OeAT6HaIbRyrZFYBupmgU--nMn9u0ZW-4GiKj=w1023-h767-no"
+    	},
+	{	
+		"nama": "Pantai Kedung Celeng",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Berada satu kawasan dengan Pantai Bantol. setelah melewati pantai ini maka akan sampai ke pantai selanjutnya yaitu Pulodoro.",
+		"thumbnail": "https://lh3.googleusercontent.com/EFtWtaboFIAmiecIH-rLRPBAW66bbbhR3Genxx8RsNWZepIgii8IAFdo3nc_43nZCb1gjfhL6lg111o0FxBgEXcm71oP24Rp9eXxJhkUF5IjebjN27cqEkhhJeoKw3NpmjlnOp6ELbLcPl65l4ZNo4tfesKUw9HdnFSAQbhPTzb8wh3gZzR2b7Zh7I24LBQKVTjxfiMvdW1FEQPB-Y5sXoCdLdPSDNas-QoL2jzYRl2ih6o5LGCb5GegB9P1L7zyO5ng-3Ci9VtaedtRYGq0NWVZBrjMFtR5AMq9kIgzbwdsbl7PBs3Z8kV4NskuO5RHHsqrA7VpSwTFuSeUP3fPQ8P7Bw4Ko2omzhMLMPf6-ho28yybTkAVr2IeABJjyF-AVtt_mwut7MXJsLcBir58WX15iHu8nKytgP7YHOIWPZCW_ySd_Qpla9ZH_Fkx0yvXDcu3xrx0oOp0I3TxlRlEgiWj7pqgnbT7Hr_OPFtRWlN9ul5jf_z8zoyRotry0ZmjIp0Orsjzt3aNNj-23Jvbkg0LYwUTuv13hiJnXzD53fqtMS-3I81K2SUr4kLYSeUA7Psw=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/Yf7oAe3ERDu8c3j7GKQtsQW1JsQ-OrMBj-EjNxum2PHibjelT19TaKIHkqlD04NnLZUyWkEzXn8l0fwf4GxasNg6JliKBbhO1jEFImGkb2j97eg9YQ8iThnNbvZIizHsoOnFKHhgkcpUVT962LpMCIM6vlaoRsSCnr4soJvuCZ3oXS_5Av6J0ow0GvhVOJKTPCh81YeBsq_Kf4-Ba3rOhe-Mmhe9Iej0oFawNnZ7BdNpDP4a4TCwGh1Q0X5TGu2TAAa9QSsCgFU6-KrMJwH53Rs9_5kzZiTm2ND1AmV-5N10eFsKrGl8zYtSwclcadsanlVwkmy1GFhzNCSt6OvW0y_XQvxqPRXIOFOo35HQmqZxb-wo_WO3yj-feLe8eq4IBFMieOmrPCeTcCqZdp0KeBg2Xj0T0OfFRw1N9tQJAFCQTLQSoRRFIlKSlEoaMoP91oPbLL_4oVRkQ-qkzkRV-YsOs3rdFh0OaA36LfxpPJ4Jyqjq-5P-EhLTzFKHkeYSSUDCGiss_hZD3BCLB6__VFgQC5uHvKXwKa93AOkqr3UmigsxczwC-f4mUSA-C_o0fCaX=w900-h675-no"
+    	},
+	{	
+		"nama": "Pantai Pulodoro",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Pantai Pulodoro merupakan satu kawasan dengan Pantai Bantol. dapat ditempuh dengan berjalan kaki-kira 15 menit dari pantai Bantol. pantai ini masih alami dan belum banyak dikenal wisatawan.",
+		"thumbnail": "https://lh3.googleusercontent.com/zhDL_qyfnn2PROXBGJn37AYK_RPXodF2JNKgaAn6984AA8dCrgkEp08tFBkWsBGnwyc2rTE6atz4gwQcsv4TpIt8ELiG_oapGwxQhPZ839TjVuWQmis80ucpnY4WLmG11r26hHcwenNtcKYOzv1MBzU2qKZFYHSgxcbWL2mGPXzgs7LnTHH92v6UEsZvIevUDOQLLZ78u76tfZ4me6dbTEnCUALsq0uODAcCvEIwvd6Q9dkg6hUNEpARlRBCdk5VAe3tkoeYkeB6EYWA5sXQtv4V-Ll1uU_JB3vs1Cxjg3BKr1NSP22LWfCyT140UgPkFJsIj3oMX_WemHz2eMkyXFrPQpXyBEDzo6kEGytb4ncWgPmg6y4Z-6TwBrH6crws0lafOr1BROwwdi2N3DapbmmqG-Ky3W_X6bu9_ldQmrufK_wir_D0RwsPw6IQ23bfwJFu6fu7ICst7-t_VDo-Z9PPuc2ds-peRpBaQS0e4ksKOcguvpVM-jFx56bFW9K1b7m0v4aOwQdQTLSIaloP9oZxfEeR9ZbD73SqUm7as2AGVHH8vADeKvImSFYK3FGnROdo=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/cs8vyna3C6euQgh1q-TPkX7oProEfDcOCMCSkV2UI8RzLaMVSNI9cjpesFnfyL4UG1hVxELlCw1ry8bHqMwJXrVGJbgGMetN0dzQfhKwYOH0e-Tbg8gQAEt2mErdAznTJw4NtB0ghT6yPbeZiJ9jYeYIP4gfaGZM0G1bsNCS0bVdLPtjIwK5H5au427c1d3C4x_9fs3-LzAobdoVE6YWHI5qCdEGIoqJwua9dVQ_P-CzoHlONWZNia6ABo3EyMXNX9UN-H-4yINaS1zHyBuN6tRnlEtNOg3ukd3N-6XNRj304Y8_mJ5pjwlpvL-VEwsOoHsjHX-d4KpT0AHx_mhY5xPOx3E8ycdSeHiW-tjQj1CpungGBf5wKkIzCTCP_PwSpdXVV5TSngsTFrVU0Q1lnsbHkUUrsfuKIv8hcFRbwokPF8kSR3J5v0CsMXE4jnTEC5xWQtXFmRsyn688AYCmdvnruQ0c59rF1aqwVFilmFBkKymzJxx_TMnehIrBe-RpLRM10OKL1_PgO3gn7_mgjY_syserRqTpvMhRIR2EXGlBEU_D6YNHKNhp9sFXx3NHBZCA=w900-h675-no"
+    	},
+	{	
+		"nama": "Pantai Sipelot",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Garis pantai Sipelot panjang dan berbentuk melingkar mirip seperti danau. Meskipun termasuk pantai selatan, ombaknya tergolong agak tenang. Hal itu karena Pantai Sipelot terletak di sebuah teluk dan adanya cerukan daratan yang menaungi di kanan-kiri pantai ini. Konon nama asli pantai ini adalah Spelot yang berasal dari bahasa Belanda dan artinya persinggahan.",
+		"thumbnail": "https://lh3.googleusercontent.com/CW773yXJl0cUVnF098tdY8kCZ3iGg5vh78UstSmGg4en4rCKHZy-dC4jA47nNN1SRwA0ers8Z1Uhihth8MuSJs9a4Bd0n4Lzk69LQs3gzf8cC-Xay5Li_mtTWSu4_JPsaOlAQBhKr3tiuv5A-f9VFqzIY9cuKikiZ523O6Bj07fvWfAW-HKRx5flZOVTGh9DCIXcJln20UiKQemSedZzMymampkPrkroUI_2jvuvFACYsZxO_YhOXJV0bET2Na2BZrqZTh5Om-aefun1hZbGyIjR8Mv4VHBUYnOSSJ18HxjkMikM_9RaT7jiA9-MiWLKn17r8tcylcFdkQWoB0XvebQcsU7nQSOStYSDw1Kb0P6f9ONgii2FUN5XYOt-77h9Y5Lzj4bsqyGvP1bLfz0njzcabEtVGZLzpwL-5Ib06P-BD_RhxCT5Pay_cZIAhUMBv8-Yubg-wdQ246NXZjW3_Z-DcynF3f7L0pDAVnvz0XA4FpFFhtmLNZ3XG1h0cHT8Y66t_nZhW_K7_qirh7QdKZj4llTT2Jgt1TJ1xUQxDdjSMmcFeLCr3p_jO3_FXYm4Jnol=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/1vv-I_SaoyUP2W_DwXUfFLE8fFP5e43rIrsc2k7kHs24Wy_C6TooYP1S1Qq7zhP99QrsZZXKueqbww1eRpp8tEnAOLa4ovHxwnjEv5XbQ2WUNHpUeuPUiIyJ9xrRPXtuJe8bOr_PU9B3hoewO39btubcw8XnknNU4b1Df9AiJpEIvq91_37-HSWg6oDJURERotpV4hhFEWu6jq5_RlK27HOB7Ethlu_Ai8ks1DyGJm7w5XEBzQF82qMGSEg-uKaQ-iVOXo-PPhUVw3N-BArKC8tojnPWCkAyGcakAX47B3MvhZIvPDh5bVFPBFs1FJCXgFC_gqkXPosqNfMNJ1NhGKkNx7PqyF5FZCqUJkbPrFpPbkoonH1EQ7VXGrhvK2K4YV9WsiuiZWNmHQSrLpw8PiXDJrlnT6Nv66vzhTdkt7-eCGWkDWre1Wu3INKDyO57nwcXNhUCbM_baKr5yrkW1FaTawwfRJrGlIkXvGRcOGOViWpuSk8_Clokq9lL2t1uBhFkx-Odoeukpmw80T9rp4gscMZsrC0QWuKiWjK9Rb1xwPHRDO9xl1IW-Ek0GTeCas8A=w1011-h758-no"
+    	},
+	{	
+		"nama": "Pantai Batu Bengkung",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Pantai Batu Bengkung merupakan sebuah pantai dengan batuan karang yang membentang membentuk barisan barikade. tentu saja disebut Bengkung karena bentuknya melengkung. suasananya masih sangat alami dan Keberadaannya masih belum terkenal, tidak terlihat pedagang berjualan di sini. Bahkan tidak terdapat fasilitas pendukung bagi wisatawan yang datang. Hanya tampak keindahan dan keasrian pantai yang disuguhkan.",
+		"thumbnail": "https://lh3.googleusercontent.com/eL2ryWtXcxMLcyxKTEHc12c7E19NEj2159JArGFLJQ3vwPKyYOALdDV7RzKVimQaFtvBxTHa1-S443JT0KbGKLXKT8zu6FHrKays9Wt3_dvl-rkGRBo0UYv2aIUQvazaGEujGQh3Jml8T__pxek8relMQPyJmIM87Hq2iUbpFTat32FJkg0uVyIR5B0I2RiigiFI_EaajKrNzl3drn8Wj-8Rl4fZ63R7G224fQJzmkhBQ9_7CCaDBkU0cusTSYZOpolegV9Kb-eMIvclh54EPzDF1AI9Pibd4Pd9FWF6JC6toO2fhu-9VRALB_494CL-uqlS4OzDJhSWEcrklmAsqRbPvuwvYrGo8Mxgb6r0cPq14ZV0BmxjSnDOyXlM1pIURVmbau7m4aPMnq1gAp7pgvcxkhDz2yeYw9yJkp7x0qIXHRjVdDfOjncKjIMQ76PkmhO89t0ssGlMkOg5EYC8tKVsGBWY1BtCQd8Z8fZMCNRYLLLrjyUkbO0YNrA_XoSL_NF3e1qJ-TLi9IPbnsslTgKtp9sz3Os5hd4tnyS9xQtyLmPfUG2zsfzINY1cnJz0knqa=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/ESeQGxRr-Fde4cpPceUVcZB9MMTRgUvhNbyRkAWV0mbdvsS04q5ktA0QnevMsxvUfTEoYDv2FGRgMCbwkYyW-NnvlbmBv-PjtrRg8rKwRVMOYauB91sDea8YSFJxL-7KyoiHP_fr265EuDhhBa1SJBzoG_Bz0wP0jFdCHdRYM-vXFjbm9fVPDhsZ7GC4xT9oT6iyxLjAUilaPuSMvpN-fanWjoZlG8mByZpBUb1kP19JaUcXRfbw3MW-gypRR0XH83-FYVgLNEPVWM_zxTJywxWrxXlSwQIgul7Tu6BvE_Ad7KGsg4_A_cXjj8mrphEsLNTt6piIffAFnJ-g9Ea_ASLyu97Glp2EA7thhExM7v1YtHpD_7X0MTBaJ2tOaFwS89BZT7PDPDh020jC2I7VvN5ywBXy3Idc0xbYOK6csvrhH41Mo5FS59RSWSxYNXUeueTWNkA3-JKBlwGCqHxO_vpzIe5a7Ea2E_QfCIx71Ms1zo0_Q2FL4BHc5R9SBj6FbSch12i1uLtF33zcGAjgOEG4R2OL0jFeUkZjRfoT0DDXko-3PH4PEToMlWY7Gtp0nReZ=w950-h633-no"
+    	},
+	{	
+		"nama": "Pantai Sendiki",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Pantai Sendiki terletak di Desa Tambakrejo, Kecamatan Sumbermanjing Wetan, Kabupaten Malang. hamparan pasir yang cukup luas dengan pasir putih yang padat merupakan landscape dari pantai ini. di sebelah ujung pantai terdapat bebatuan dengan biota laut yang beragam.",
+		"thumbnail": "https://lh3.googleusercontent.com/sHZ8_5-CBZCSab20tfJiy9OPvabom9eqLv_NQEQPotetb7MmddjIq9Cr-z_MxcEBWzA7SrPoXMFk25vrWjzgOiIThcqGx9ns0BdTIuqD17XExhX89DBRP84QwrWYtIXXAzZk2klLbOmsmcSg7JfDbrvxu-XMSPVp7Py3GGjVtl-Ym4Wl9gLVxtBwcbhc76Pc4au6yYSfYLHSp6HZynv3z4B1jdMeZX_CByEG2sTk7udCxFv9mUNN1nXVv40by5zFsdmhd7-UWwi8nPkJQgA6pm6S79a-I0WgPlWDdXf3JGcBCRO4FOmYLUv1FXxMvzGtSWDPffxtf7ZtxvBnINAqzS2G4endM9LvXgB7JHvrAbwKgBIQTyax5IzLgtK_OXBz_IZjCYLg5MbGT6sEhLMBAW5GgNnoeIZGcClv5ubJ_aE8jl6sItQZyCTiPp565MQJkveTVAGHQ4Jdwjr5iUeYe7d5LckHgenfGFMKN6QXBuGE2x-KtsL6yU5t1H-r91HjRnxqQ54qiDQ0Rjkm7tdT1FAE7czO1AWb2P4O5EQiQTPpUqYuXmd40mGlQh99GV7oamtjAJeuCudEdhkaMHxUfFHlJywSlv0=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/_dYlMJpJnoRF8YEwLC182SaMmN73jp3JbYVHinFCTMS1lZYwpz-eXC6LNpMY1RCmSiM4qukhkchGc3DyMw3akjQwoPitWKeboQMF7ooFcdsapd418iTo3lhhJlo-UoHFad8D3RiP6wPWxxPTDneFs1ER-8JQE3lA3q5oGHEiE8vbbM92LiNSxIv18Xb2ELigNJnx58tzY_YPP90nN6rDB7x2YTjh2FWWid6kuZLhJKm3JcKS4DUc3A82gjWijRzGXHKy4l1ZYpcSViV_3uMozrNxCQPC0wdAxMlP1KyhjZOySqDalIRBtKHo945dqD-7zTAWrWQUbWuDdED4qJhuSYOrjU0pQKEycLqrJIe_GyEBdnHInbUE7ZjQMWKqw3Vxt7a3EcGpll5o-vXverKdQuqQ7OG93xV4eq2lqYl-GRHogv_IYYjBPNyxMZIVVmcqZQ8YZq1mGE9ggDAgqiLp_WKB6VA5NwyLk0_QqgGkvL2-9IQjohCDWuI8_5dh190GocKozMYt9jyIlMeybV85deaMmP8bwWX4WKtPgfKvfnF0_q8TtZqJ60LOIA_8Q2RMltIYWhhb643DtT7ZUAGHe3Iklzd0_Bo=w860-h484-no"
+    	},
+	{	
+		"nama": "Pantai Ngantep",
+		"lokasi" : "Kab. Malang",
+		"deskripsi": "Terletak di sebelah barat pantai Bajulmati atau di sebelah timur pantai Balekambang, tepatnya di desa Tumpakrejo, Kecamatan Gedangan, Kabupaten Malang. Pantai Ngantep juga dikenal sebagai pantai religi karena di bukit pantai ini terdapat sebuah pendopo yang merupakan makam tetua yang disucikan.",
+		"thumbnail": "https://lh3.googleusercontent.com/hsRNysgCnHRH8ZepisAe5c4_3XtT97JGDhrH3KBspLD1jtDE_3SFPNUM4HXKVfe2M-47rsCzAZYemh0nRYRqUM56fTdGzEReFO8EFQBQ3ZwMWpigfyPIsz4azxWzU9zR93_2qf-ZhPTbW2c03qdrTBwmdyM1qN0ExgaylyzMnFIWh1i0UQChInPCT9NMWDjAwvLtHYIT8kb8XwIMnncWyusVYId8DOXKziswOleqalDjrW5TLEhTGhXjgUEU0aR82tJll2PHCPRqCe0mRHkjt2ZG8jLuxPEeQvAgTDEUJFqcrnO9hTTOddd7HYmMqv5KrYFdeErAe90q2NjGqhSwUcO2TDxxXjpZ4gnc3MciuLgM8VrScU9aPGBDw5D5i5GmcPqAUgj0PyT5Mwn4q9NObFPkEd9nr2yrmGkk97xVfjmZjPqvDA0YxTgjOddLnKDgemv4WHhiaAjwy3W7Z6GInHQtEOYNLXZ8kJwnijYcDp0QF8kD95hQX8Scxze1la33Ww7Lt6PmZydbxefgvtWG6ak1OcUyuAH5mEfN-XNtzNS8JsF7f0Tez8Gy4jpKahnwZpq4xcvcA1iu_2PfQ-br5m9eieCRTPA=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/dzmAOFvQ7n1g_56g6EZgVprwfXAtEQVSCTkJNxnjI5bbXuOul5oWcaStpsHAvQDijx1oRe2qr5vJ3pI-Sx3SzQ5IprQ_6OU28QiJYKjtkKxww6UeHqO_oiqCsXXvbILBQZarSwgjat0lujkNLQw6ub3lD9zYLzS5EA4ShyF4sRrgR_nGAlI0nUdr3z-tMFa0GCp2YLe5-Fqrz4Q8jLiy7Gy1JjuhhHAI8v-KP8LKUORp2AlrfxLu3qWWjHoJJs4ghubdqPcoLKcz3lipMy9IWDNt41W4OHucx8IAvZE-6AAqw6CgQZMU91b6C9AJwR7iuwkZTa7HH0LzMDimDsPc4d0-sm41QzXeUq9f6mkov-0j7nN1K48aoJLqIpQ1s0vvSj6Afy6dJ5bTffD5Vv6TUGweWKGb60Iazy9v9znHLWT3n-eo78U8u4X_AlzW6kyN-kWTlmcE0xMXjbqVsYgklvFNUhhSamTy6QgiYx5Fex-fqEPtclOwiVrOg8N8bfX_Esi3t9zx3kmdGhVVL9P-tLolf5JyW9dR6KLwKBtDobYBSsl0LV5GYdSRdVZC0k_H8kK0ilcWfE6T8rMCiIvjkRFT1Bw_PPc=w800-h600-no"
+    	},
+	{	
+		"nama": "Kampung Warna Jodipan",
+		"lokasi" : "Kota Malang",
+		"deskripsi": "Kampung ini cukup unik karena dulunya merupakan kampung yang kumuh berada di pinggir sungai brantas, memiliki ciri khas warna warni yang berbeda antara satu rumah dengan rumah yang lainnya. Selain itu juga perkampungan ini memiliki gambar gambar yang bertemakan urban street yang menjadi spot terbaik bagi para pengunjung untuk mengambil foto.",
+		"thumbnail": "https://lh3.googleusercontent.com/inrF_V6Y8NtKU8tEgtAvzEyLzk5wWfi7PNcggHrnqRakcEYmvxNx66QO9nC88QG3DYUezGwz8-8mh-F2c7F3Kn2aYJaqRS0MBkqNnWvFTqHFA07LKCRFhepphCWyGz8FjpcywRiyY6nWOtNvatpBVRY7bTSYissMsbkM2C5KpPq6Sbwe_njZoUO-QDlPoyC_kgrDkP360dJNE4mTzFbmVzsxvEXtPHbgU2TgyBqnVgOUc60muhNE8rzC-RfyC9YSIpA8-aRblAYvU81b2LYYaTxGTBAQoAsnDZmFhsXV_5Bq7_kxCfKCV_oXAaCU_uWDO3ZCF3jvj9x5Ixqk1jrbClS72fwEk6kNdndYPhtZ7UZJd_sWESp3VN9ddpL_GDxvSVSIt1x40m8DvK7V31ZpGX6ZBQHCcvjRP_ZVgh6pRbkYUWil8MUEuqSM82iBxHBef7reglN5r8iMVGcj8CMuTVGRdfW21tWuU-STgtm839m5hqZ3pQPJMkEzeiUOhMUBfyzn9EZNZqfXd5MlW693STR-Zo6yS5cHL-bHf0MpX6HLqskBLpJMCOs90iTi1zLlF3AflAcKPi0pl1qN5_ijMwYCLhTqtutVSrqeiMzFxlS0gkPx=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/KlmAzI9kdr7R3gt3MBQg7vDzr4ryGZ0sDYtF3Oo2ULIMAFNR6WJ2791pgV9spfvyiDCBDyelpQBoXxAwmh_yMWrpIXbKcekreu6nvy7pRjd5WIX7flmcfUjQeM7jlYnri0ucq6cdjXd93VVj0VTENXwSUnWLufmxw8e4W3Xo_yMxspNO_yH8iTscZq-5ECbtrS3bG04A4mxzV_1dmEmC9nLgLzhwzX0N9eBJEq3w7hBmciXqWrHVBUEPY_eOsuirJmu_PR9p8BxkBBI862mNn2s0OluwulTyv9niMatQZL_jFoYBYKnuItgFS7seOwHr3YAR51ETII79ldI0Ct8O6pGC5yjwAAQY8dY4aB8HAZ5JrZps3nxRanetBz58o3Lq-ry5eAiYFu9RbvXqzf33YB2C1EyChld0TSjI2sZhpLVJOOB5LLDOvttnX1h5S6wIOePSkUryD3AFgaX8zmNaz9k29GOWkhwypcMCrJfCkrFXVortnA6CwqYJMVQNJWZdSWoqEyxf-0-o1QpZSkpuuU5WCVzn2OuIJ7RDQQnXQFrDOfCdnzoW9GKA5XBC6_5BUGL4NC1s05ANSlKVqIs8bQYP51IZaxwe2IPGlbfjYb7vFVyh=w1158-h755-no"
+    	},
+	{	
+		"nama": "Hawai Water Park",
+		"lokasi" : "Kota Malang",
+		"deskripsi": "Taman wisata air ini akan menyajikan tema Hawai di seluruh areal taman wisata melalui penerapan Hawai cabana, dekorasi, dan background. terletak di Perumahan Graha Kencana Jl Raya Karanglo Malang. Dari beberapa wahana yang ada, ada dua wahana yang menjadi unggulan di Hawai Waterpark Malang yaitu Hawai Water House dan Tsunami pool.",
+		"thumbnail": "https://lh3.googleusercontent.com/brGOx4EDhFbMuPNNRZh1zW3qICHKF1DKfETXcKxh4aTLyV2uTMM1sleKCLU-_qjpazIV1qtRuGNdoOR-e1Jmdl9L7wCqVvCRqfN04OlCsUFktqDVJxJU99QeUIRjJ68K3npI0bYEPUk30BpBSwS_47zFWLyDqX5o03dce3VAZbatvzPmm-_eDgmCbuQy515S697hiUyTqRipWQvbRO18KnOGwKMgiov5C2burPuWeilksyoNDGmGbUdiQN7SDxU0ACmu3pYWoS6osygunlizzyQQTnPNj4CsEMRwqor69pSWD70RL92iMOTYkRyVg-nXJxkGGeO0JCgD19kLwtAgWdNtTwnFCK8ndl08voSdMrjgW6x_Y8AoeX5HnhBgX24kQMnrxinHL_8Vn9q0Ou5HhG9zx8mYo5MPgOWmOO8ga7_JOEoQTcF-2c0QFcjHRJMs0syVWblTfxrZdaRHEJvEXuGOO3DeHUCZpQ-WB9OlZBjo-72stN5jS0d9rPqnVWPtBUmtkQ-I813BbdAq326cZU0kpnrEDB9do5nGES0tNioNXf2faET-BYWNb1PPvS-dLPBN9sOqSwEvflCHjsqyqdI-GplcZLmhg_fsGuUGT8tw_JUs=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/V-C9gChWnqvL9pBeeEfyxOrmvDK_J79k1apr63iDjpRd6cbu43g8OAweD0sm_ZF51cS86ivZQLj34PvjtF526hVnoQcOorhu6EeN5D3Bni8jACg_yxlBPR4urV8MpH7guoKYzHv1MItK0Z8yyopk2-gbGcQvLfDUTXX0NJQ3dMnecoaWuKbkWbLCdnY15XD1C7S6V1aywvcC-TY1n6HRzoKooSnIFl28ChWC7CU_m-HmzKZJTqH1jg0-NCBgKKLyjVupkEEivEFdUSVP14D4LdoAtTJA0wsBEtE5PKZoH5CO0imv8T3SHU3qpldr_A2LJBzv4po5XlupAjZqRaKVD_nYLX2JNaVu0NuDlFkJsFpC1ULrTaeJw1xG1fqsvYwoNaBLIskXJJBYtzFATqNObBUY86oGF0UfzrZSqhJY5uQdCpVw6vVU678cbZfy2nDTlhsMtbqrLfpKRQ-vSkRelSa6G8UjHkCfwvp8jrrp-m2_0ozjo9FCqjTQzHIpUuZxOcgGy1aLMvb3vuYRGlSNgESzELhjtcrj5yXQ3WrSt7OoqM5zbb69yTsLnrx5mUK8lcs6b_ElvbE8ImjpYW1PT8QZr_I35-qnvH8Ziyut66wFMqiL=w1023-h767-no"
+    	},
+        {	
+		"nama": "Coban Rais",
+		"lokasi" : "Kota Batu",
+		"deskripsi": "Disebut juga dengan Bukit Bulu Batu Garden Flower. Tempat ini diresmikan kurang lebih bulan Desember 2016. terdapat tempat menarik untuk berfoto, salah satunya yaitu gardu pandang berbentuk tulisan i love you.",
+		"thumbnail": "https://lh3.googleusercontent.com/TI1WUJ4kqn60tH1nJtH0whtMVmeQRt08fy50CqkgZ8y8hFCwP0KhpNFowCdLzJGttWt4zqYyKC-YghOe8j0q7NA6dsgz0Z1nLl9o22lZi-t-G7yGn_a6-pJhRF2hspidoacmq_kNffJdf0Cgwv6zVIFruKpxmWHfCzmql1eAVzPL2BdumYNiuLezofR90z6RSxsZQao9NJnXVkLgTmtE8BxTSIw7e1151hBxm21h1ouD7QjHir5hnvoF-NhsRRPYiGKF378uWhPZOUeQr0lM8aL9zBfXK9TMGgLyl48CvBlM-J12S47Kg5rSUval8R0iEYh_n0Mli4qxA9FaC-ndX81akSRWcQRII-jAONcGlBzOhbVMtkflaumx3Rxeov9lN6iXHuZ1eW35ppaD12WrvVnqXtQPfqiw-3FQVnQIASJe3Nb9qTT5O0SLSaMNyqFx1vCMiNx30vw6tSzZ5LruNuzy83QOOcf39LwkBd3vk7FvNCROeIkMOb2hPOVvvpuJle037sF2czHxVnzZ_l3vGZGsUrFq4g7shlP8fi3OJ5SO3Sitb4N9jPIViGhJ-fLIBdnWzJgxRvLOQYSp45mIDP3qBQUrssW3RpITrnCUjQ6PQAsn_rMK=s250-no",
+		"gambar": "https://lh3.googleusercontent.com/AdhC5Ootk33_nbAv9wZjVILi70V1JYUCyLE2z82zFWI5lsMQt2-Vlp0sMv1mc3jjAzP-Bhot0ZiZceQ5PbEOD2TEyg1S1O6WCPvnBLQNNA0fpBmM_nNN4OthAd6_-tc9lxr5JcoZjJC-7BRajokCKWxo54TjgYGlL1FEIaCrxhXN2MJ79n6EK2SSSR_I_hkEjB9QazR8a6OnozE4ma3blbhYS_h5DvWBiXaAoWzU9CkgqrLLMMvE2KmkVozT3KN4QpeFx2dS47OWbz-lQ8JUF2mm2pM3b15NrOjnhQGicJVDW5JkzOFbHuqHaui3heiui5CHtCucXCWypZtzVr55EaU-EeIGcsFYzk1QrL8Y0I4h5iV_Qr4R6WKyc55xdCkn0v38Co8zQTxfaQ6vmD6PDaOoDJvHFrk4iER7BDkKqzuFz-1iDSSXfiQaH4NwMn2PG0tJO8wA6vLganiySnEK1fjmxuM3vMIBOn0fwTePRTaM8u4ie-gW4LXn_9C6fe1NR4j7lfwa7wytGoUOIpV8n8YMB4xDqIaHgVbIKB2yJu_c9CRqjvVR3f7Bxjjr3eFk-JYVB5Ya5giq_udpG7Ar2oiAa-lCJEAVBZAsxU17G-ZXGtNysFDI=w720-h480-no"
+    	}]
